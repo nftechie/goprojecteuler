@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 2 - Even Fibonacci Numbers
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 4613732

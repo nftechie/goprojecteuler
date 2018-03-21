@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 12 - Highly Divisible Triangular Number
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/17/2017
 
 	Answer submitted: 76576500

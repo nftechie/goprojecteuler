@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 9 - Special Pythagorean Triplet
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 31875000

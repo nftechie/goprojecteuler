@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 6 - Sum Square Difference
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 25164150

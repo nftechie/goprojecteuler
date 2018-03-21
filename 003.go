@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 3 - Largest Prime Factor
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 6857

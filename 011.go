@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 11 - Largest Product in a Grid
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/217
 
 	Answer submitted: 70600674

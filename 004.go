@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 4 - Largest Palindrome Product
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 906609

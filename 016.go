@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 16 - Power Digit Sum
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/217
 
 	Answer submitted: 1366

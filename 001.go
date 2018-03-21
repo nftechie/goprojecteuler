@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 1 - Multiples of 3 and 5
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 233168

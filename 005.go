@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 5 - Smallest Multiple
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 232792560

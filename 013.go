@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 13 - Large Sum
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/17/2017
 
 	Answer submitted: 5537376230

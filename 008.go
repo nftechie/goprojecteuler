@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 8 - Largest Product in a Series
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 23514624000

@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 14 - Longest Collatz Sequence
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/17/2017
 
 	Answer submitted: 837799

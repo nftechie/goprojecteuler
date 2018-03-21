@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 7 - 10001st Prime
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 104743

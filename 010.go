@@ -1,7 +1,7 @@
 /* 
 	Project Euler
 	Problem 10 - Summation of Primes
-	Alex Wormuth (roamingtechie)
+	Alex Wormuth (awormuth)
 	10/15/2017
 
 	Answer submitted: 142913828922
